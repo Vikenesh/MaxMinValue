@@ -1,0 +1,11 @@
+C:\Users\viki\Source\Repos\Challenge2MinMax\Challenge2MinMax\bin\Debug\netcoreapp2.2\Challenge2MinMax.deps.json
+C:\Users\viki\Source\Repos\Challenge2MinMax\Challenge2MinMax\bin\Debug\netcoreapp2.2\Challenge2MinMax.runtimeconfig.json
+C:\Users\viki\Source\Repos\Challenge2MinMax\Challenge2MinMax\bin\Debug\netcoreapp2.2\Challenge2MinMax.runtimeconfig.dev.json
+C:\Users\viki\Source\Repos\Challenge2MinMax\Challenge2MinMax\bin\Debug\netcoreapp2.2\Challenge2MinMax.dll
+C:\Users\viki\Source\Repos\Challenge2MinMax\Challenge2MinMax\bin\Debug\netcoreapp2.2\Challenge2MinMax.pdb
+C:\Users\viki\Source\Repos\Challenge2MinMax\Challenge2MinMax\obj\Debug\netcoreapp2.2\Challenge2MinMax.csprojAssemblyReference.cache
+C:\Users\viki\Source\Repos\Challenge2MinMax\Challenge2MinMax\obj\Debug\netcoreapp2.2\Challenge2MinMax.csproj.CoreCompileInputs.cache
+C:\Users\viki\Source\Repos\Challenge2MinMax\Challenge2MinMax\obj\Debug\netcoreapp2.2\Challenge2MinMax.AssemblyInfoInputs.cache
+C:\Users\viki\Source\Repos\Challenge2MinMax\Challenge2MinMax\obj\Debug\netcoreapp2.2\Challenge2MinMax.AssemblyInfo.cs
+C:\Users\viki\Source\Repos\Challenge2MinMax\Challenge2MinMax\obj\Debug\netcoreapp2.2\Challenge2MinMax.dll
+C:\Users\viki\Source\Repos\Challenge2MinMax\Challenge2MinMax\obj\Debug\netcoreapp2.2\Challenge2MinMax.pdb
